@@ -26,12 +26,23 @@
     "webpack-dev-server": "^1.14.0"
   },
   "dependencies": {
+    "autoprefixer": "^7.1.1",
     "babel-preset-stage-1": "^6.1.18",
+    "bootstrap-material-design": "^0.5.10",
+    "bulma": "^0.4.2",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-postcss": "^7.0.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0",
     "lodash": "^3.10.1",
     "react": "^0.14.3",
     "react-dom": "^0.14.3",
     "react-redux": "4.3.0",
     "react-router": "^2.0.1",
-    "redux": "^3.0.4"
+    "redux": "^3.7.1",
+    "youtube-api-search": "0.0.5"
   }
 }
